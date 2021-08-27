@@ -1,6 +1,8 @@
 # ATTINY-13-AVR
 An example to show how to program ATTINY 13 AVR in C language
 
+The bootloader used on the chip is https://github.com/MCUdude/MicroCore
+
 Fuse can be calculated by visiting http://eleccelerator.com/fusecalc/fusecalc.php?chip=attiny13a
 
 The process can be simplified if you are using docker by deploying docker image from https://hub.docker.com/r/lpodkalicki/avr-toolchain
